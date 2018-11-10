@@ -1,0 +1,9 @@
+.main {
+	border:#cccccc 2px dashed;
+	border-radius: 2px;
+	display: inline-flex;
+	float:left;
+	background: red;
+	width:500px;
+	height:200px;
+}
